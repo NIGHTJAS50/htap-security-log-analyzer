@@ -1,0 +1,7 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+psycopg[binary]==3.2.3
+redis==5.2.1
+clickhouse-connect==0.8.15
+sentence-transformers==3.3.1
+pydantic==2.10.5
